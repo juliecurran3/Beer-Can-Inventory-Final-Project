@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/beercan  
+    username: root  
+    password: password
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    
